@@ -6,6 +6,10 @@ Tailwind CSS と生成AI の組み合わせによる高速開発のデモンス�
 
 このプロジェクトは、Tailwind CSS と生成AI を組み合わせた開発手法の利点を示すためのカンバンボードアプリケーションです。
 
+## デモページ
+
+https://yamamoto-shohei.github.io/demo-tailwind-bolt-kanban/
+
 ## 主な機能
 
 * ドラッグ&ドロップによるタスク管理
